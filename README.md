@@ -10,4 +10,4 @@
 - The "draft" watermark is generated via an SVG code incorporated in the CSS style in the `_layout` files. Obviously, this should be removed when the web site is final.
 - You may want to use a bona fide W3C URL for the workshop; this can be done by setting a redirection to the `github.io` page. Do a `curl` on, for example, `https://www.w3.org/publishing/.htaccess` for a pattern.
 
-You can look at this template, served as HTML after jekyll has done its job at the corresponding `github.io` page: https://w3c.github.io/ws-homepage-template/.
+You can look at this template, served as HTML after jekyll has done its job at the corresponding `github.io` page: https://w3c.github.io/ws-homepage-template/index.html.
