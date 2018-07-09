@@ -37,19 +37,25 @@ This workshop will build on the [meeting on trust and permissions for Web applic
 
 Attendance is free for all invited participants and is open to the public, whether or not W3C members.
 
-If you wish to express interest in attending, please fill out the registration form (<span class="todo">WBS to be done</span>. We want to fill the room with people with practical experience of both Web and VR technologies.
+If you wish to express interest in attending, please fill out the [registration form](https://docs.google.com/forms/d/1reKYi5jiVnl_x0QkhvOPcXrqRPHvVyJ07YN4a1zlyu0/edit).
 
 Because the venue has limited space, you must receive an acceptance email in order to attend. Also, be sure to keep an eye on [these important dates](#dates).
 
-As an alternative to the registration form, you are encouraged to submit a presentation topic in the form of a [position statement](#position-statements).
+In addition to the registration form, you are encouraged to submit a presentation topic in the form of a [position statement](#position-statements).
 
 Our aim is to get a diversity of attendees from a variety of industries and communities, including:
 
-> <span class="todo">A list of communities should appear here, e.g.,</span>
-> * Manga/cartoon content producers
-> * Reading systems
-> * Authoring tool providers
-> * <span class="todo">etc.</span>
+* User researchers
+* Privacy researchers
+* Regulators / policymakers
+* Privacy advocates
+* Members and representatives of vulnerable groups including:
+> * Sufferers of domestic violence/abuse
+> * Dissidents
+> * People with disabilities
+> * People who use non-English UI languages
+> * Representatives of newcomers to the internet
+> * Representatives of primarily low connectivity connections
 
 ## How can I suggest a presentation?
 {: #position-statements}
@@ -58,7 +64,7 @@ This is a workshop, not a conference, and any presentations will be short, with 
 
 In order to best facilitate informed discussion, we encourage attendees to read the accepted topics prior to attending the workshop.
 
-If you wish to present on a topic, you should submit a position statement (<span class="todo">WBS to be set up</span>) by the deadline (see [important dates](#dates)). Our program committee will review the input provided, and select the most relevant topics and perspectives.
+If you wish to present on a topic, you should submit a position statement by the deadline (see [important dates](#dates)). Our program committee will review the input provided, and select the most relevant topics and perspectives.
 
 A good position statement should be a few paragraphs long and should include:
 
@@ -69,6 +75,8 @@ A good position statement should be a few paragraphs long and should include:
 * A focus on technical issues, not process or platform preference. We plan to talk about the what, not the how.
 * Position statements must be in English, preferably in HTML or plain-text format. You may include multiple topics, but we ask that each person submit only a single coherent position statement. The input provided at registration time (e.g., bio, goals, interests) will be published and linked to from this workshop page.
 
+Please email statements to the program committee at group-permissions-ws-pc@w3.org.
+
 ## Location
 
 The W3C Workshop will located at Qualcomm's offices in La Jolla, California.  The closest airport is San Diego (SAN).
@@ -77,7 +85,6 @@ The W3C Workshop will located at Qualcomm's offices in La Jolla, California.  Th
 {: .no_toc}
 
 More details to be announced.
-{: .todo}
 
 ## Program Committee
 
