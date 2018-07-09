@@ -10,16 +10,36 @@ layout: cfp
 
 ## What is the purpose of this workshop?
 
-<span class="todo">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span>
+Sensors, devices, and rich Web APIs present novel and complex threats to user privacy.  This workshop brings together security and privacy experts, UI/UX researchers, browser vendors, mobile OS developers, API authors, Web publishers and users to address the privacy, security and usability challenges presented by a complex and overlapping variety of permissions and consent systems available for hardware sensors, device capabilities and applications on the Web.
 
+The scope includes:
 
-## How can I attend?
+* bundling of permissions,
+* lifetime/duration of permissions,
+* permission inheritance to iframes and other embedded elements
+* relation to same origin policy,
+* UIs and controls,
+* interaction with private browsing modes,
+* implicit permission grants,
+* progressive permission grants,
+* cross-stack permissions: how OS, browser, and web app permissions interact,
+* user consent,
+* permission transparency,
+* relation to regulatory requirements,
+* special considerations for systems that use the browser as a pass-through (e.g. EME and Web Authentication), and
+* permissions/transparency/UI as it relates to display-less devices that connect to the Internet,
+
+We aim to share experiences and user studies, leading to a common understanding of when and how to seek user consent for use of various Web platform capabilities. We expect this workshop to lead to concrete and consistent guidance for API authors and implementers and to identify areas for further standardization or research. An important take-away from this workshop should be the guidance on how Permissions API should be designed, both now and in the future, considering the rapid evolution of the web platform.
+
+This workshop will build on the [meeting on trust and permissions for Web applications held in 2014](https://www.w3.org/2014/07/permissions/)
+
+## How can I participate?
 
 Attendance is free for all invited participants and is open to the public, whether or not W3C members.
 
 If you wish to express interest in attending, please fill out the registration form (<span class="todo">WBS to be done</span>. We want to fill the room with people with practical experience of both Web and VR technologies.
 
-Because the venue can accommodate unfortunately only 100 attendees, you must receive an acceptance email in order to attend. Also, be sure to keep an eye on [these important dates](#dates).
+Because the venue has limited space, you must receive an acceptance email in order to attend. Also, be sure to keep an eye on [these important dates](#dates).
 
 As an alternative to the registration form, you are encouraged to submit a presentation topic in the form of a [position statement](#position-statements).
 
@@ -30,17 +50,6 @@ Our aim is to get a diversity of attendees from a variety of industries and comm
 > * Reading systems
 > * Authoring tool providers
 > * <span class="todo">etc.</span>
-
-
-This workshop, as other W3C meetings, operates under its [Code of Ethics and Professional Conduct](https://www.w3.org/Consortium/cepc/).
-
-## Which topics will be covered?
-{: #topics}
-
-<span class="todo">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span>
-
-Suggestions for further workshop topics? Submit a [pull request on GitHub](https://github.com/w3c/tokyo18-workshop) or email Ivan Herman <ivan@w3.org>.
-
 
 ## How can I suggest a presentation?
 {: #position-statements}
@@ -62,27 +71,37 @@ A good position statement should be a few paragraphs long and should include:
 
 ## Location
 
-The W3C Workshop will located at <span class="todo">T.B.D.</span>
+The W3C Workshop will located at Qualcomm's offices in La Jolla, California.  The closest airport is San Diego (SAN).
 
 ### Venue
 {: .no_toc}
 
-Venue details
+More details to be announced.
 {: .todo}
 
 ## Program Committee
 
-### Chairs
-{: .no_toc}
-
-* T.B.D.
-{: .todo}
-
 ### Committee Members
 {: .no_toc}
 
-* T.B.D.
-{: .todo}
+* Marcos Caceres, Mozilla
+* Nick Doty, UC Berkeley
+* Joseph Lorenzo Hall, CDT
+* Jen King, Stanford University, Center for Internet and Society
+* Giridhar Mandyam, Qualcomm
+* Jason Novak, Apple
+* Lukasz Olejnik, independent researcher, W3C TAG
+* Christine Runnegar, Internet Society
+* Vincent Toubiana, ARCEP
+* Samuel Weiler, W3C 
+* Jeffrey Yasskin, Google 
+
+## Code of Conduct
+{: .no_toc}
+
+Participants in this workshop, as in all W3C activities, are expected to follow the [W3C code of ethics and professional conduct](https://www.w3.org/Consortium/cepc/) and treat each other with respect, professionalism, fairness, and sensitivity to our many differences and strengths.
+
+Issues of inappropriate behavior may be [raised with the W3C Ombuds](https://www.w3.org/Consortium/pwe/#Procedures) (offline), or with designated volunteers at the event, or with any member of the Program Committee.
 
 ## What is W3C?
 
