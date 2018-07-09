@@ -4,4 +4,4 @@ layout: home
 
 # What is the purpose of this workshop?
 
-<span class="todo">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</spam>
+This workshop brings together security and privacy experts, UI/UX researchers, browser vendors, mobile OS developers, API authors, Web publishers and users to address the privacy, security and usability challenges presented by a complex and overlapping variety of permissions and consent systems available for hardware sensors, device capabilities and applications on the Web.
