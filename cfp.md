@@ -50,12 +50,12 @@ Our aim is to get a diversity of attendees from a variety of industries and comm
 * Regulators / policymakers
 * Privacy advocates
 * Members and representatives of vulnerable groups including:
-** Sufferers of domestic violence/abuse
-** Dissidents
-** People with disabilities
-** Folks who use non-English UI languages
-** Representatives of newcomers to the internet
-** Representatives of primarily low connectivity connections
+> * Sufferers of domestic violence/abuse
+> * Dissidents
+> * People with disabilities
+> * People who use non-English UI languages
+> * Representatives of newcomers to the internet
+> * Representatives of primarily low connectivity connections
 
 ## How can I suggest a presentation?
 {: #position-statements}
