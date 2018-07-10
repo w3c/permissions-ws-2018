@@ -67,7 +67,8 @@ A good position statement should be a few paragraphs long and should include:
 * Links to related supporting resources.
 * Any other topics you think the workshop should cover in order to be effective.
 * A focus on technical issues, not process or platform preference. We plan to talk about the what, not the how.
-* Position statements must be in English, preferably in HTML or plain-text format. Please try to keep them under two pages. You may include multiple topics, but we ask that each person submit only a single coherent position statement. The input provided at registration time (e.g., bio, goals, interests) will be published and linked to from this workshop page.
+* Position statements must be in English, preferably in HTML or plain-text format. You may include multiple topics, but we ask that each person submit only a single coherent position statement. The input provided at registration time (e.g., bio, goals, interests) will be published and linked to from this workshop page.
+* Submissions should be between 200 and 1000 words.
 
 Please email statements to the program committee at group-permissions-ws-pc@w3.org.
 
