@@ -74,7 +74,7 @@ Please email statements to the program committee at group-permissions-ws-pc@w3.o
 
 ## Location
 
-The W3C Workshop will be located at Qualcomm's offices in La Jolla, California.  The closest airport is San Diego (SAN).
+The Workshop will be held at Qualcomm's offices in La Jolla, California.  The closest airport is San Diego (SAN).
 
 ### Venue
 {: .no_toc}
