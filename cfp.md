@@ -35,7 +35,7 @@ This workshop will build on the [meeting on trust and permissions for Web applic
 
 Attendance is free for all invited participants and is open to the public, whether or not W3C members.
 
-If you wish to express interest in attending, please fill out the [registration form](https://docs.google.com/forms/d/1reKYi5jiVnl_x0QkhvOPcXrqRPHvVyJ07YN4a1zlyu0/edit).
+If you wish to express interest in attending, please fill out the [registration form](https://www.w3.org/2002/09/wbs/1/permissions2018/).
 
 Because the venue has limited space, you must receive an acceptance email in order to attend. Also, be sure to keep an eye on [these important dates](#dates).
 
@@ -65,7 +65,7 @@ A good position statement should be a few paragraphs long and should include:
 * Links to related supporting resources.
 * Any other topics you think the workshop should cover in order to be effective.
 * A focus on technical issues, not process or platform preference. We plan to talk about the what, not the how.
-* Position statements must be in English, preferably in HTML or plain-text format. You may include multiple topics, but we ask that each person submit only a single coherent position statement. The input provided at registration time (e.g., bio, goals, interests) will be published and linked to from this workshop page.
+* Position statements must be in English, preferably in HTML or plain-text format. Please try to keep them under two pages. You may include multiple topics, but we ask that each person submit only a single coherent position statement. The input provided at registration time (e.g., bio, goals, interests) will be published and linked to from this workshop page.
 
 Please email statements to the program committee at group-permissions-ws-pc@w3.org.
 
