@@ -8,7 +8,9 @@ layout: cfp
 * TOC
 {:toc}
 
-Sensors, devices, and rich Web APIs present novel and complex threats to user privacy, along with their heightened capabilities.  This workshop brings together security and privacy experts, UI/UX researchers, browser vendors, mobile OS developers, API authors, Web publishers and users to address the privacy, security and usability challenges presented by the complex and overlapping variety of permissions and consent systems that are currently presented for hardware sensors, device capabilities and applications on the Web.
+Sensors, devices, and rich Web APIs bring novel and complex threats to user privacy along with their heightened capabilities. Users may have trouble understanding the nature of the information they disclose and the threats presented by those disclosures.  Deciding *when* and *how* to seek a user's consent ("permission") or when that consent can be inferred or bypassed has been challenging, with different APIs, operating systems, and browsers handling things in different ways.
+
+This workshop brings together security and privacy experts, UI/UX researchers, browser vendors, mobile OS developers, API authors, Web publishers and users to address the privacy, security and usability challenges presented by the complex and overlapping variety of permissions and consent systems that are currently presented for hardware sensors, device capabilities and applications on the Web.
 
 The scope includes:
 
