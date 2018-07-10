@@ -14,20 +14,20 @@ This workshop brings together security and privacy experts, UI/UX researchers, b
 
 The scope includes:
 
-* bundling of permissions,
-* lifetime/duration of permissions,
-* permission inheritance to iframes and other embedded elements
-* relation to same origin policy,
-* UIs and controls,
-* interaction with private browsing modes,
-* implicit permission grants,
-* progressive permission grants,
-* cross-stack permissions: how OS, browser, and web app permissions interact,
-* user consent,
-* permission transparency,
-* relation to regulatory requirements,
-* special considerations for systems that use the browser as a pass-through (e.g. EME and Web Authentication), and
-* permissions/transparency/UI as it relates to display-less devices that connect to the Internet,
+* user consent;
+* bundling of permissions;
+* lifetime/duration of permissions;
+* permission inheritance to iframes and other embedded elements;
+* relation to same origin policy;
+* UIs and controls;
+* interaction with private browsing modes;
+* implicit permission grants;
+* progressive permission grants;
+* cross-stack permissions: how OS, browser, and web app permissions interact;
+* permission transparency;
+* relation to regulatory requirements;
+* special considerations for systems that use the browser as a pass-through (e.g. EME and Web Authentication); and
+* permissions/transparency/UI as it relates to display-less devices that connect to the Internet.
 
 We aim to share experiences and user studies, leading to common understanding of when and how to seek user consent for use of various Web platform capabilities. We expect this workshop to lead to concrete and consistent guidance for API authors and implementers and to identify areas for further standardization or research. An important take-away from this workshop should be guidance on how Permissions APIs should be designed, both now and in the future, considering the rapid evolution of the web platform.
 
@@ -45,10 +45,10 @@ In addition to the registration form, you are encouraged to submit a presentatio
 
 Our aim is to get diverse attendance from a variety of industries and communities, including:
 
-* User and usability researchers
-* Privacy researchers
-* Regulators / policymakers
-* Privacy advocates
+* User and usability researchers;
+* Privacy researchers;
+* Regulators / policymakers;
+* Privacy advocates; and
 * Persons with expertise and/or experience related to accessibility, multilingual requirements, low connectivity environments, and the particular privacy needs of vulnerable individuals or communities
 
 ## How can I suggest a presentation?
