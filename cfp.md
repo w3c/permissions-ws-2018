@@ -29,7 +29,7 @@ The scope includes:
 
 We aim to share experiences and user studies, leading to common understanding of when and how to seek user consent for use of various Web platform capabilities. We expect this workshop to lead to concrete and consistent guidance for API authors and implementers and to identify areas for further standardization or research. An important take-away from this workshop should be guidance on how Permissions APIs should be designed, both now and in the future, considering the rapid evolution of the web platform.
 
-This workshop will build on the [meeting on trust and permissions for Web applications held in 2014](https://www.w3.org/2014/07/permissions/)
+This workshop will build on the [meeting on trust and permissions for Web applications held in 2014](https://www.w3.org/2014/07/permissions/).
 
 ## How can I participate?
 
@@ -43,18 +43,11 @@ In addition to the registration form, you are encouraged to submit a presentatio
 
 Our aim is to get diverse attendance from a variety of industries and communities, including:
 
-* User researchers
+* User and usability researchers
 * Privacy researchers
 * Regulators / policymakers
 * Privacy advocates
-* Members and representatives of vulnerable groups such as:
- * * Sufferers of domestic violence/abuse
- * * Dissidents
- * * People with disabilities
- * * Folks who use non-English UI languages
- * * Representatives of newcomers to the internet
- * * Representatives of primarily low connectivity connections
-
+* Persons with expertise and/or experience related to accessibility, multilingual requirements, low connectivity environments, and the particular privacy needs of vulnerable individuals or communities
 
 ## How can I suggest a presentation?
 {: #position-statements}
