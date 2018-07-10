@@ -88,12 +88,14 @@ More details to be announced.
 
 * Marcos Caceres, Mozilla
 * Nick Doty, UC Berkeley
+* Ilaria Liccardi, MIT
 * Joseph Lorenzo Hall, CDT
 * Jen King, Stanford University, Center for Internet and Society
 * Giridhar Mandyam, Qualcomm
 * Jason Novak, Apple
 * Lukasz Olejnik, independent researcher, W3C TAG
 * Christine Runnegar, Internet Society
+* Florian Schaub, University of Michigan
 * Vincent Toubiana, ARCEP
 * Samuel Weiler, W3C 
 * Jeffrey Yasskin, Google 
