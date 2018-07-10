@@ -55,6 +55,7 @@ Our aim is to get diverse attendance from a variety of industries and communitie
  * * Representatives of newcomers to the internet
  * * Representatives of primarily low connectivity connections
 
+
 ## How can I suggest a presentation?
 {: #position-statements}
 
