@@ -8,9 +8,7 @@ layout: cfp
 * TOC
 {:toc}
 
-## What is the purpose of this workshop?
-
-Sensors, devices, and rich Web APIs present novel and complex threats to user privacy.  This workshop brings together security and privacy experts, UI/UX researchers, browser vendors, mobile OS developers, API authors, Web publishers and users to address the privacy, security and usability challenges presented by a complex and overlapping variety of permissions and consent systems available for hardware sensors, device capabilities and applications on the Web.
+Sensors, devices, and rich Web APIs present novel and complex threats to user privacy, along with their heightened capabilities.  This workshop brings together security and privacy experts, UI/UX researchers, browser vendors, mobile OS developers, API authors, Web publishers and users to address the privacy, security and usability challenges presented by the complex and overlapping variety of permissions and consent systems that are currently presented for hardware sensors, device capabilities and applications on the Web.
 
 The scope includes:
 
@@ -29,7 +27,7 @@ The scope includes:
 * special considerations for systems that use the browser as a pass-through (e.g. EME and Web Authentication), and
 * permissions/transparency/UI as it relates to display-less devices that connect to the Internet,
 
-We aim to share experiences and user studies, leading to a common understanding of when and how to seek user consent for use of various Web platform capabilities. We expect this workshop to lead to concrete and consistent guidance for API authors and implementers and to identify areas for further standardization or research. An important take-away from this workshop should be the guidance on how Permissions API should be designed, both now and in the future, considering the rapid evolution of the web platform.
+We aim to share experiences and user studies, leading to common understanding of when and how to seek user consent for use of various Web platform capabilities. We expect this workshop to lead to concrete and consistent guidance for API authors and implementers and to identify areas for further standardization or research. An important take-away from this workshop should be guidance on how Permissions APIs should be designed, both now and in the future, considering the rapid evolution of the web platform.
 
 This workshop will build on the [meeting on trust and permissions for Web applications held in 2014](https://www.w3.org/2014/07/permissions/)
 
@@ -43,19 +41,20 @@ Because the venue has limited space, you must receive an acceptance email in ord
 
 In addition to the registration form, you are encouraged to submit a presentation topic in the form of a [position statement](#position-statements).
 
-Our aim is to get a diversity of attendees from a variety of industries and communities, including:
+Our aim is to get diverse attendance from a variety of industries and communities, including:
 
 * User researchers
 * Privacy researchers
 * Regulators / policymakers
 * Privacy advocates
-* Members and representatives of vulnerable groups including:
-> * Sufferers of domestic violence/abuse
-> * Dissidents
-> * People with disabilities
-> * People who use non-English UI languages
-> * Representatives of newcomers to the internet
-> * Representatives of primarily low connectivity connections
+* Members and representatives of vulnerable groups such as:
+ * * Sufferers of domestic violence/abuse
+ * * Dissidents
+ * * People with disabilities
+ * * Folks who use non-English UI languages
+ * * Representatives of newcomers to the internet
+ * * Representatives of primarily low connectivity connections
+
 
 ## How can I suggest a presentation?
 {: #position-statements}
@@ -79,7 +78,7 @@ Please email statements to the program committee at group-permissions-ws-pc@w3.o
 
 ## Location
 
-The W3C Workshop will located at Qualcomm's offices in La Jolla, California.  The closest airport is San Diego (SAN).
+The W3C Workshop will be located at Qualcomm's offices in La Jolla, California.  The closest airport is San Diego (SAN).
 
 ### Venue
 {: .no_toc}
