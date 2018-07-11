@@ -88,6 +88,7 @@ More details to be announced.
 
 * Marcos Caceres, Mozilla
 * Nick Doty, UC Berkeley
+* Jo Franchetti, Samsung
 * Ilaria Liccardi, MIT
 * Joseph Lorenzo Hall, CDT
 * Jen King, Stanford University, Center for Internet and Society
