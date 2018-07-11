@@ -97,6 +97,7 @@ More details to be announced.
 * Lukasz Olejnik, independent researcher, W3C TAG
 * Christine Runnegar, Internet Society
 * Florian Schaub, University of Michigan
+* Katie Shilton, University of Maryland
 * Vincent Toubiana, ARCEP
 * Samuel Weiler, W3C 
 * Jeffrey Yasskin, Google 
