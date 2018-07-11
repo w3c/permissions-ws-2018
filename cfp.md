@@ -106,7 +106,7 @@ More details to be announced.
 
 Participants in this workshop, as in all W3C activities, are expected to follow the [W3C code of ethics and professional conduct](https://www.w3.org/Consortium/cepc/) and treat each other with respect, professionalism, fairness, and sensitivity to our many differences and strengths.
 
-Issues of inappropriate behavior may be [raised with the W3C Ombuds](https://www.w3.org/Consortium/pwe/#Procedures) (offline), or with designated volunteers at the event, or with any member of the Program Committee.
+Issues of inappropriate behavior may be [raised with the W3C Ombuds](https://www.w3.org/Consortium/pwe/#Procedures) (offline), with designated volunteers at the event, or with any member of the Program Committee.
 
 ## What is W3C?
 
