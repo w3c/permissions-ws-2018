@@ -99,7 +99,9 @@ More details to be announced.
 * Florian Schaub, University of Michigan
 * Katie Shilton, University of Maryland
 * Vincent Toubiana, ARCEP
+* Jessica Vitak, University of Maryland
 * Samuel Weiler, W3C 
+* Tara Whalen, Google
 * Jeffrey Yasskin, Google 
 
 ## Code of Conduct
