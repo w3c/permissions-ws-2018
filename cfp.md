@@ -37,8 +37,7 @@ This workshop will build on the [meeting on trust and permissions for Web applic
 
 Attendance is free for all invited participants and is open to the public, whether or not W3C members.
 
-If you wish to express interest in attending, please fill out the [application form]
-(https://www.w3.org/2002/09/wbs/1/permissions2018/).  The application form asks several questions
+If you wish to express interest in attending, please fill out the [application form](https://www.w3.org/2002/09/wbs/1/permissions2018/).  The application form asks several questions
 about your background and ideas; please give these questions serious thought.
 In addition to the application form, you are encouraged to submit a presentation topic in the
 form of a [position statement](#position-statements).
