@@ -42,7 +42,7 @@ about your background and ideas; please give these questions serious thought.
 In addition to the application form, you are encouraged to submit a presentation topic in the
 form of a [position statement](#position-statements).
 
-Because the venue has limited space, you must receive an acceptance email in order to attend. Also, be sure to keep an eye on [these important dates](#dates).
+Because the venue has limited space, you must receive an acceptance email in order to attend.  You might wish to defer making non-refundable travel arrangements until you receive an invitation.  Be sure to keep an eye on [these important dates](#dates).
 
 
 Our aim is to get diverse attendance from a variety of industries and communities, including:
