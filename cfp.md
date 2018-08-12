@@ -8,9 +8,9 @@ layout: cfp
 * TOC
 {:toc}
 
-Sensors, devices, and rich Web APIs bring novel and complex threats to user privacy along with their heightened capabilities. Users may have trouble understanding the nature of the information they disclose and the threats presented by those disclosures.  Deciding *when* and *how* to seek a user's consent ("permission") or when that consent can be inferred or bypassed has been challenging, with different APIs, operating systems, and browsers handling things in different ways.
+Sensors, devices, and rich Web APIs bring novel and complex threats to user privacy along with their heightened capabilities. Users may have trouble understanding the nature of the information they disclose and the threats presented by those disclosures.  Deciding *when* and *how* to seek a user's consent ("permission") or when that consent can be inferred or bypassed has been challenging, with different APIs, operating systems, and browsers handling things in different ways. The Workshop is oriented towards web applications and their capability to mediate access to local resources and data. For consent in the sense of the GDPR, the [Data Privacy Vocabularies and Controls CG](https://www.w3.org/community/dpvcg/) was created as an outcome of the [W3C Workshop on Privacy and Linked Data](https://www.w3.org/2018/vocabws/). Both initiatives may in the future benefit from each other as also *GDPR-consent* will need user interaction.
 
-This workshop brings together security and privacy experts, UI/UX researchers, browser vendors, mobile OS developers, API authors, Web publishers and users to address the privacy, security and usability challenges presented by the complex and overlapping variety of permissions and consent systems that are currently presented for hardware sensors, device capabilities and applications on the Web.
+The W3C Workshop on Permissions and User Consent brings together security and privacy experts, UI/UX researchers, browser vendors, mobile OS developers, API authors, Web publishers and users to address the privacy, security and usability challenges presented by the complex and overlapping variety of permissions and consent systems that are currently presented for hardware sensors, device capabilities and applications on the Web.
 
 The scope includes:
 
