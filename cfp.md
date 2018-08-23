@@ -8,7 +8,7 @@ layout: cfp
 * TOC
 {:toc}
 
-Sensors, devices, and rich Web APIs bring novel and complex threats to user privacy along with their heightened capabilities. Users may have trouble understanding the nature of the information they disclose and the threats presented by those disclosures.  Deciding *when* and *how* to seek a user's consent ("permission") or when that consent can be inferred or bypassed has been challenging, with different APIs, operating systems, and browsers handling things in different ways. The Workshop is oriented towards web applications and their capability to mediate access to local resources and data. For consent in the sense of the GDPR, the [Data Privacy Vocabularies and Controls CG](https://www.w3.org/community/dpvcg/) was created as an outcome of the [W3C Workshop on Privacy and Linked Data](https://www.w3.org/2018/vocabws/). Both initiatives may in the future benefit from each other as also *GDPR-consent* will need user interaction and a corresponding data handling.
+Sensors, devices, and rich Web APIs bring novel and complex threats to user privacy along with their heightened capabilities. Users may have trouble understanding the nature of the information they disclose and the threats presented by those disclosures.  Deciding *when* and *how* to seek a user's consent ("permission") or when that consent can be inferred or bypassed has been challenging, with different APIs, operating systems, and browsers handling things in different ways.  Both web applications and native applications face similar challenges in this space, and both are in scope for this workshop.
 
 The W3C Workshop on Permissions and User Consent brings together security and privacy experts, UI/UX researchers, browser vendors, mobile OS developers, API authors, Web publishers and users to address the privacy, security and usability challenges presented by the complex and overlapping variety of permissions and consent systems that are currently presented for hardware sensors, device capabilities and applications on the Web.
 
@@ -32,6 +32,8 @@ The scope includes:
 We aim to share experiences and user studies, leading to common understanding of when and how to seek user consent for use of various Web platform capabilities. We expect this workshop to lead to concrete and consistent guidance for API authors and implementers and to identify areas for further standardization or research. An important take-away from this workshop should be guidance on how Permissions APIs should be designed, both now and in the future, considering the rapid evolution of the web platform.
 
 This workshop will build on the [meeting on trust and permissions for Web applications held in 2014](https://www.w3.org/2014/07/permissions/).
+
+The W3C Workshop on Permissions and User Consent is oriented toward applications and how they mediate access to local resources and data. For consent in the sense of the GDPR, the [Data Privacy Vocabularies and Controls CG](https://www.w3.org/community/dpvcg/) (which was created as an outcome of the [W3C Workshop on Privacy and Linked Data](https://www.w3.org/2018/vocabws/)) may be of interest.  Both initiatives may benefit from each other in the future as *GDPR-consent* will also need user interaction.
 
 ## How can I participate?
 
