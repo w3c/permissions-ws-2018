@@ -1,0 +1,41 @@
+Position Statement for the W3C Workshop on Permissions and User Consent
+(September 26-27, 2018; San Diego, California)
+
+Submitted by: Christine Utz
+
+----------------------------------------
+Background
+----------------------------------------
+
+I am a web privacy researcher at Ruhr University Bochum. My work is primarily technical, but often interdisciplinary since I have both a degree in law and one in computer security. Currently I am involved in a research project investigating the effects of the European Union's General Data Protection Regulation (GDPR) on web privacy, which has led me to examine existing mechanisms to obtain user consent to the processing of personal data on websites.
+
+----------------------------------------
+Discussion Proposal
+----------------------------------------
+
+The GDPR affects any web service offering services to Europeans. I would like to lead a discussion on the topic of what can be done from a technical perspective to implement the GDPR's transparency and consent requirements in a usable and effective way. Currently websites prompt users whether they agree with the site's use of cookies or other tracking technologies. Research has shown that users tend to disregard the text displayed by cookie consent notices [2], which renders the new transparency requirements in Articles 12 and 13 GDPR useless. In addition, valid consent under GDPR requires users to be offered an actual choice and the option to reevaluate their selection. In our current research project [3], we investigated commonly used implementations of cookie consent notices and observed that most do not provide users with a meaningful choice and the ability to withdraw consent.
+
+[1} https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0679&from=EN
+[2] Kulyk et al., "This Website Uses Cookies": Users' Perceptions and Reactions to the Cookie Disclaimer, EuroUSec 2018, https://www.ndss-symposium.org/wp-content/uploads/sites/25/2018/06/eurousec2018_12_Kulyk_paper.pdf
+[3] Degeling et al., We Value Your Privacy ... Now Take Some Cookies: Measuring the GDPR's Impact on Web Privacy, Preprint, 2018, https://arxiv.org/abs/1808.05096
+
+----------------------------------------
+Additional Topics
+----------------------------------------
+
+In order to be effective, the workshop should provide a brief outline of existing legislation that requires users to give consent to the processing of their personal data -- because this determines to which extent users need to be bothered with consent requests in the first place.
+In our research [3], we found that existing web security mechanisms such as the same-origin policy pose problems for users withdrawing their consent to the use of third-party cookies, so I would like to encourage a discussion of this clash of mechanisms.
+Another topic I would like to see discussed is how to make data processing practices transparent without placing a big cognitive burden on the user.
+
+
+
+
+
+
+    Your background in the main topic areas of the workshop.
+    Which topic you would like to lead discussion on.
+    Links to related supporting resources.
+    Any other topics you think the workshop should cover in order to be effective.
+    A focus on technical issues, not process or platform preference. We plan to talk about the what, not the how.
+    Position statements must be in English, preferably in HTML or plain-text format. You may include multiple topics, but we ask that each person submit only a single coherent position statement. The input provided at registration time (e.g., bio, goals, interests) will be published and linked to from this workshop page.
+    Submissions should be between 200 and 1000 words.
