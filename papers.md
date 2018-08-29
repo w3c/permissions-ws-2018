@@ -4,7 +4,6 @@ layout: home
 
 # Position papers from invited attendees
 
-https://www.w3.org/Privacy/permissions-ws-2018/papers
 * [Harald Alvestrand](https://www.w3.org/Privacy/permissions-ws-2018/papers/harald-alvestrand.html),	Google
 * [Wendell Baker](https://www.w3.org/Privacy/permissions-ws-2018/papers/brad-kulick.pdf) [(txt)](https://www.w3.org/Privacy/permissions-ws-2018/papers/brad-kulick.txt), Oath
 * Cindy Barker,	Intuit Inc.
