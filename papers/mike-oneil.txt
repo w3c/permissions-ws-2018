@@ -1,0 +1,76 @@
+For the last decade I have led the development of software for scanning
+websites for tracking, recording user consent, and automatically
+establishing restrictions on third-party and first-party cookies under user
+control. I have been an active member and Invited Expert on the TPWG since
+2012 and implemented the full DNT JavaScript API in a browser extension
+(https://baycloud.com/bouncerDownload) as well as in server-side systems. 
+
+The work on Permissions and Tracking Protection involves much common ground,
+but have till recently had different approaches.  While the Permissions API
+explicitly assumes the browser is actively enforcing restrictions associated
+with user preferences, the DNT protocol and API tended towards only servers
+having a role. Independently browsers have been implementing their own
+tracking protection features i.e. Tracking Protection Lists, third-party
+cookie blocking, content blocking and ITP, but not in a standardised way,
+and on the whole not taking users' preferences or server's policy
+declarations into account. Now would be a good time to draw these different
+approaches together.
+
+There has been recent work on better ways to manage state persistence via
+new APIs for cookie control, or entirely new mechanisms such as Mike West's
+idea for updating HTTP state management
+https://github.com/mikewest/http-state-tokens, mine for reusing the DNT
+header for a similar purpose
+https://w3c.github.io/dnt/drafts/PurposesAddendum2.html , and the work of
+the WebKit team for a Storage Access API
+https://webkit.org/blog/8124/introducing-storage-access-api/ and ITP.
+Incorporating user consent into this mix could establish a common
+understanding of user preference between servers and browsers and improve
+the efficiency and effectiveness of data protection/privacy. 
+
+User consent is a significant focus for privacy legislation and both the
+ePrivacy Directive (A.5(3) & R.66)  and the GDPR (A6.1a) call out for
+technical implementations. The GDPR (A21.5) and possibly the new ePrivacy
+Regulation also calls for the means to declare a right-to-object in certain
+circumstances. By integrating legally enforceable signalling into browsers,
+potentially using it to inform client-side data protection mechanisms, could
+lead to a far more consistent user experience of online privacy controls,
+minimise the need for regulatory action, and help restore trust in the web.
+
+The IABEU's Consent Management Platform (CMP) shows that significant
+components of the web ecosystem, e.g. AdTech companies and online
+publishers, recognise the importance of, and legal necessity for, user
+control.  But the CMP suffers from having to rely on HTTP cookies or in-page
+communication using JavaScript message events. Cookies cannot currently
+restrict tracking to a single site, because requests to embedded resources
+will always include them. 
+
+Publishers influenced the design of the CMP so that persisting user consent
+preferences in a first-party cookie could be an option, but communicating
+these preferences to  third-parties is problematic. Publishers need to at
+least supplement their subscription revenue via advertising and they are in
+the best position to ask for user consent, but users are unlikely to freely
+give it when tracking data is essentially web-wide. Not only the consent
+signal but also the data itself needs to scoped to the publisher's sites,
+under their control.
+
+I would like to present some ideas I am working on in this area.
+
+
+
+Mike O?Neill
+Director
+
+Baycloud Systems
+The Oxford Centre for Innovation
+New Road,
+Oxford,
+OX1 1BY
+
+Tel: +44 1865 735619
+Email: michael.oneill@baycloud.com
+Skype: mikeoneill
+
+
+
+
