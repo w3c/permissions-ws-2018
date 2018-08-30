@@ -11,9 +11,9 @@ layout: home
 * [Leonard Daly](https://www.w3.org/Privacy/permissions-ws-2018/papers/leonard-daly.html),	Daly Realism
 * Nick Doty,	UC Berkeley, School of Information
 * Serge Egelman, U.C. Berkeley / International Computer Science Institute
-* Jo Franchetti,	Samsung Internet
-* Alisa Frik,	International Computer Science Institute / UC Berkeley
-* Atis Gailis,	4finance
+* [Jo Franchetti](https://medium.com/samsung-internet-dev/a-crisis-of-permissions-80cf3b2c802e), Samsung Internet
+* Alisa Frik, International Computer Science Institute / UC Berkeley
+* Atis Gailis, 4finance
 * Hana Habib, Carnegie Mellon University
 * Frauke Kreuter, University of Maryland
 * Diane Hosfelt, Mozilla
