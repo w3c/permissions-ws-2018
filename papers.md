@@ -32,7 +32,6 @@ layout: home
 * [Mike O'Neill](https://www.w3.org/Privacy/permissions-ws-2018/papers/mike-oneil.txt),	Baycloud Systems
 * [Wijesekera Primal](https://www.w3.org/Privacy/permissions-ws-2018/papers/primal-wijesekera.txt),	The University of California, Berkeley
 * [Robert Richter](https://www.w3.org/Privacy/permissions-ws-2018/papers/robert-richter.pdf),	Consumer Reports
-* [Janina Sajka](https://www.w3.org/Privacy/permissions-ws-2018/papers/janina-sajka.html)
 * Wendy Seltzer, W3C	
 * Harjot Singh, Geotab Inc.
 * Sarah Squire,	Ping Identity
@@ -45,4 +44,5 @@ layout: home
 
 * [Axel Polleres](https://www.w3.org/Privacy/permissions-ws-2018/papers/axel-polleres.pdf),  Vienna University of Economics and Business  (remote)
 * Shivan Kaul Sahib (remote)
+* [Janina Sajka](https://www.w3.org/Privacy/permissions-ws-2018/papers/janina-sajka.html) (remote)
 
