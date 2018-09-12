@@ -34,7 +34,7 @@ layout: home
         <tr>
         <th>11:20 - 12:00</th>
         <td>
-            <p class="session-title">Timing & Durationr</p>
+            <p class="session-title">Timing & Duration</p>
         </td>
     </tr>
         <tr>
