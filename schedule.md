@@ -46,7 +46,7 @@ layout: home
         <tr>
         <th>1:00 - 1:40</th>
         <td>
-            <p class="session-title">Permissions in new Contexts (e.g. cars, XR, WebRTC)</p>
+            <p class="session-title">Permissions in new Contexts (e.g. cars, XR, WebRTC), Nell Waliczek</p>
         </td>
     </tr>
        <tr>
@@ -64,7 +64,7 @@ layout: home
 <tr>
         <th>2:40 - 3:20</th>
         <td>
-            <p class="session-title">New approaches to Permission Management</p>
+            <p class="session-title">New approaches to Permission Management, Serge Egelman</p>
         </td>
     </tr>
        <tr>
