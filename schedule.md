@@ -6,7 +6,7 @@ layout: home
 
 ## Wednesday, 26 September
 
-<table>
+<table class="zebra">
     <tr>
         <th>9:00 - 9:30</th>
         <td>
@@ -90,7 +90,7 @@ layout: home
 
 ## Thursday, 27 September
 
-<table class="zebra todo">
+<table class="zebra">
     <tr>
         <th>9:00 - 9:40</th>
         <td>
