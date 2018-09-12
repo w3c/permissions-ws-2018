@@ -6,7 +6,7 @@ layout: home
 
 ## Wednesday, 26 September
 
-<table class="zebra todo">
+<table>
     <tr>
         <th>9:00 - 9:30</th>
         <td>
