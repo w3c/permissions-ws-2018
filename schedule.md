@@ -28,13 +28,13 @@ layout: home
         <tr>
         <th>10:40 - 11:20</th>
         <td>
-            <p class="session-title">Accountability and Provenance</p>
+            <p class="session-title">Accountability and Provenance, Martin Thomson</p>
         </td>
     </tr>
         <tr>
         <th>11:20 - 12:00</th>
         <td>
-            <p class="session-title">Timing & Duration</p>
+            <p class="session-title">Timing & Duration, Martin Thomson</p>
         </td>
     </tr>
         <tr>
@@ -112,7 +112,7 @@ layout: home
         <tr>
         <th>10:40 - 11:20</th>
         <td>
-            <p class="session-title">Interaction with Regulation and Policy</p>
+            <p class="session-title">Interaction with Regulation and Policy, Robert Richter</p>
         </td>
     </tr>
         <tr>
