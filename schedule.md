@@ -52,7 +52,7 @@ layout: home
        <tr>
         <th>1:40 - 2:20</th>
         <td>
-            <p class="session-title">Permission Bundling</p>
+            <p class="session-title">Permission Bundling, Harald Alvestrand</p>
         </td>
     </tr>
         <tr>
