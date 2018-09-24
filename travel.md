@@ -24,4 +24,4 @@ The nearest large airport is SAN, approximately 18 miles away.  LAX is about a t
 
 # Venue
 
-The workshop will be held on the Qualcomm campus in La Jolla, California. Further details will be sent to those who have been accepted.
+The workshop will be held in Qualcomm building S, room S210, in La Jolla, California.  [map](https://www.w3.org/Privacy/permissions-ws-2018/S-Building-Layout.pdf)  You may park in any open Qualcomm garage.
