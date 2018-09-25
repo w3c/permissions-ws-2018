@@ -30,7 +30,6 @@ layout: home
 * Jason Novak, Apple, Inc.
 * Theresa O'Connor,	Apple Inc.
 * [Mike O'Neill](https://www.w3.org/Privacy/permissions-ws-2018/papers/mike-oneil.txt),	Baycloud Systems
-* [Wijesekera Primal](https://www.w3.org/Privacy/permissions-ws-2018/papers/primal-wijesekera.txt),	The University of California, Berkeley
 * [Robert Richter](https://www.w3.org/Privacy/permissions-ws-2018/papers/robert-richter.pdf),	Consumer Reports
 * Wendy Seltzer, W3C	
 * Harjot Singh, Geotab Inc.
@@ -39,6 +38,7 @@ layout: home
 * [Christine Utz](https://www.w3.org/Privacy/permissions-ws-2018/papers/christine-utz.txt),	Ruhr University Bochum
 * Nell Waliczek, Amazon
 * Samuel Weiler, W3C / MIT
+* [Primal Wijesekera](https://www.w3.org/Privacy/permissions-ws-2018/papers/primal-wijesekera.txt),	The University of California, Berkeley
 * Fuqiao Xue, W3C
 * Yi Zhang, Intuit
 
