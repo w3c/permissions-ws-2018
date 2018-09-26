@@ -16,7 +16,7 @@ layout: home
 * Hana Habib, Carnegie Mellon University
 * Frauke Kreuter, University of Maryland
 * Diane Hosfelt, Mozilla
-* Andrew Hughes, [Kantara Initiative](kantarainitiative.org)
+* [Andrew Hughes](https://www.w3.org/Privacy/permissions-ws-2018/papers/andrew-hughes-kantara.md), [Kantara Initiative](kantarainitiative.org)
 * [Ryo Kajiwara](https://www.w3.org/Privacy/permissions-ws-2018/papers/ryo-kajiwara.md),	* ACCESS CO. LTD.
 * [Aleksandra Korolova](https://www.w3.org/Privacy/permissions-ws-2018/papers/aleksandra-korolova.html),	University of Southern California
 * [Brad Kulick](https://www.w3.org/Privacy/permissions-ws-2018/papers/brad-kulick.pdf) [(txt)](https://www.w3.org/Privacy/permissions-ws-2018/papers/brad-kulick.txt),	Oath
@@ -26,7 +26,7 @@ layout: home
 * Giridhar Mandyam,	Qualcomm
 * Aleecia McDonald, Carnegie Mellon
 * Anthony Nadalin,	Microsoft
-* Thomas Nattestad, Google Chrome
+* [Thomas Nattestad](https://www.w3.org/Privacy/permissions-ws-2018/papers/thomas-nattestad.pdf), Google Chrome
 * Jason Novak, Apple, Inc.
 * Theresa O'Connor,	Apple Inc.
 * [Mike O'Neill](https://www.w3.org/Privacy/permissions-ws-2018/papers/mike-oneil.txt),	Baycloud Systems

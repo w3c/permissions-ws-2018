@@ -28,7 +28,7 @@ layout: home
         <tr>
         <th>10:40 - 11:20</th>
         <td>
-            <p class="session-title">Accountability and Provenance, Martin Thomson</p>
+            <p class="session-title"><a href="https://www.w3.org/Privacy/permissions-ws-2018/Making-Sites-Accountable.pdf">Accountability and Provenance</a>, Martin Thomson</p>
         </td>
     </tr>
         <tr>
@@ -46,13 +46,13 @@ layout: home
         <tr>
         <th>1:00 - 1:40</th>
         <td>
-            <p class="session-title">Permissions in new Contexts (e.g. cars, XR, WebRTC), Nell Waliczek</p>
+            <p class="session-title"><a href="https://www.w3.org/Privacy/permissions-ws-2018/WebXR.pdf">Permissions in new Contexts</a> (e.g. cars, XR, WebRTC), Nell Waliczek</p>
         </td>
     </tr>
        <tr>
         <th>1:40 - 2:20</th>
         <td>
-            <p class="session-title">Permission Bundling, Harald Alvestrand</p>
+            <p class="session-title"><a href="https://www.w3.org/Privacy/permissions-ws-2018/Permission-bundling.pdf">Permission Bundling</a>, Harald Alvestrand</p>
         </td>
     </tr>
         <tr>
@@ -94,7 +94,7 @@ layout: home
     <tr>
         <th>9:00 - 9:40</th>
         <td>
-            <p class="session-title">Role of Platforms, Jason Novak & Theresa O'Connor</p>
+            <p class="session-title">Role of Platforms, Jason Novak, Diane Hosfelt, Tom Lowenthal, Thomas Nattestad</p>
         </td>
     </tr>
     <tr>
