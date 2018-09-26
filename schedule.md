@@ -94,7 +94,7 @@ layout: home
     <tr>
         <th>9:00 - 9:40</th>
         <td>
-            <p class="session-title">Role of Platforms, Jason Novak & Theresa O'Connor</p>
+            <p class="session-title">Role of Platforms, Jason Novak, Diane Hosfelt, Tom Lowenthal, Thomas Nattestad</p>
         </td>
     </tr>
     <tr>
