@@ -28,7 +28,7 @@ layout: home
         <tr>
         <th>10:40 - 11:20</th>
         <td>
-            <p class="session-title">Accountability and Provenance, Martin Thomson</p>
+            <p class="session-title"><a href="https://www.w3.org/Privacy/permissions-ws-2018/Making-Sites-Accountable.pdf">Accountability and Provenance</a>, Martin Thomson</p>
         </td>
     </tr>
         <tr>
@@ -52,7 +52,7 @@ layout: home
        <tr>
         <th>1:40 - 2:20</th>
         <td>
-            <p class="session-title">Permission Bundling, Harald Alvestrand</p>
+            <p class="session-title"><a href="https://www.w3.org/Privacy/permissions-ws-2018/Permission-bundling.pdf">Permission Bundling</a>, Harald Alvestrand</p>
         </td>
     </tr>
         <tr>
