@@ -26,7 +26,7 @@ layout: home
 * Giridhar Mandyam,	Qualcomm
 * Aleecia McDonald, Carnegie Mellon
 * Anthony Nadalin,	Microsoft
-* Thomas Nattestad, Google Chrome
+* [Thomas Nattestad](https://www.w3.org/Privacy/permissions-ws-2018/papers/thomas-nattestad.pdf), Google Chrome
 * Jason Novak, Apple, Inc.
 * Theresa O'Connor,	Apple Inc.
 * [Mike O'Neill](https://www.w3.org/Privacy/permissions-ws-2018/papers/mike-oneil.txt),	Baycloud Systems
