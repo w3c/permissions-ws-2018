@@ -1,0 +1,123 @@
+# Permission for Storage Access
+
+Recently Mozilla announced it is joining Apple in implementing an API for servers to request access to storage, 
+i.e. to HTTP cookies and potentially other website data such as localStorage.
+
+In the WebKit implementation access to storage is denied (to all resources sharing the main domain of the script origin) 
+once the Intelligent Tracking Prevention (ITP) system detects tracking,
+ while the Mozilla announcement suggests it will perhaps rely on a previously curated list of domains recognised as "trackers".
+
+While introduced as part of the move towards active tracking protection in browsers, it also echoes legislative initiatives such
+ as the EU's ePrivacy Directive, which since 2009 has required user consent for terminal storage
+ (now referencing the GDPR's description of consent as "freely given, specific & informed", "unambiguous" 
+and "via an affirmative act", where is "as easy to withdraw consent as to give it"), 
+meaning any access to browser generated (e.g. cookies) or derived data (e.g. IP source addresses or fingerprinting).
+
+A browsing context associated with an embedded `iframe`,
+ calls a JavaScript function `requestStorageAccess`in the context of a user gesture. 
+This returns a `Promise` which resolves immediately if storage access has already been allowed, 
+or after the user has clicked the "Allow" button in a UA initiated pop-up.
+
+This is similar to the generic functionality defined by the Permissions API, but is executable (only?) by nested
+ browsing contexts (`iframes') rather than top-level pages. Users see the web in terms of the first-party
+sites they navigate to, often unaware of third-party content or what the concept even means. and a prompt referring out of the blue to
+an third-party domain name is likely to confuse them.
+
+It would be useful to graft some of the ideas behind the Storage Access API into the Permissions API,
+ by introducing a storage access `PermissionDescriptor` i.e. one with the name property set to 'storage-access'. 
+This would be primarily called by top-level browsing contexts, 
+but a could also be available to nested contexts if the top-level site enables that.
+What is missing, for both the Permissions and Storage Access APIs,
+is some way to explain to the user the reason why access to a feature is being requested, 
+and to indicate the identity of the entity  requesting it. A user may not know what company a domain is managed by, 
+for example they are unlikely to know that stats.g.doubleclick.net is managed by Google.
+
+## Declarations via a /.well-known JSON manifest
+
+One way to fix this is to require that the domain requesting access has to declare who they are, 
+and the purposes for which the need access to storage. The DNT Tracking Protection Expression (TPE) document 
+defined a JSON resource domain specific `/.well-known` location which could contain this information, the advantage being, 
+as against say supplying the information in a parameter or dictionary property, that it would be harder for malware or less trusted code to amend it.
+
+The UA could then pick up the required information from this resource and present it in its prompt pop-up.
+The JSON resource would include a string for the entity's name, and a text body explaining how the storage would be used.
+The UA could then re-present this information at any time the user requested it, say by clicking a "permissions" icon in the location bar. 
+If the UA detected a change, say by recording a checksum, the granted feature (or storage) access could be automatically revoked.
+
+## Defining the new features
+
+A new (powerful) feature of 'storage-access' is proposed.
+
+There is an associated parameter describing the type of access to be agreed, which could be one of
+
+
+Value | Meaning
+- | -
+none | no access allowed, e.g. cookies would be purged if there and never sent
+transient | storage will be limited by a pre-determined maximum duration or expiry time
+partitioned | storage would be partitioned in the ITP sense.
+full | access would be allowed as at present
+
+
+
+
+## Specifying more restrictive defaults with Feature-Policy
+
+Sites should be capable of specifying a more restrictive mode of storage access, 
+to itself (possibly malware script operating in its context) and for its embedded third-parties.
+
+If parametrisation is introduced in the Feature-Policy API:
+
+`Feature-Policy: storage-access(partitioned); storage-access(full) 'self';
+
+meaning all embedded resources (not just `iframes`) have only access to "partitioned" or "double-keyed" storage.
+
+`Feature-Policy: storage-access 'self';`
+
+meaning the top-level context has full access to storage, but the embeddees have none, 
+unless the Permission query for possibly parametrised storage-access successfully resolves.
+
+Third-party `iframes` could be give access to the storage-access permission API by:
+
+`Feature-Policy: storage-access-permission: https://trustedpartner.com
+
+
+## Site-specific consent
+
+
+Users see the web in terms if the first-party sites they navigate to, 
+often unaware of third-party content that may be collecting their online activity. 
+
+Top-level sites should be capable of asking users for access to storage for itself
+ and its embedded third-party resources, but only in the context of the top-level site, similar to the "Site-Specific"
+consent defined in the DNT TPE. Users are likely to be more comfortable giving their consent, 
+say to a publisher's top-level site and its embeddees if they can rely on it being restricted to that context.
+
+This requires partitioned or "double-keyed" access to storage a la ITP, 
+i.e. permission for `partitioned` storage-access.
+
+
+
+## Consent indication header
+
+If the UA is not enforcing the requirement for user consent, the servers have to take responsibility, 
+so need to be made aware of that circumstance.
+
+Browsing contexts making the API calls can find out their permission state, 
+e.g. by FP introspection or Promise resolution, but other resources, 
+unable to execute JavaScript, cannot. Even for document resources there would be a round-trip cost involved 
+with determining the current state.
+It would also be useful for servers handling non-document resources to be informed what access they have, 
+for example the result of `Set-Cookie` response headers.
+
+Perhaps an origin specific request header could indicate that, similar to idea behind the DNT:0 signal.
+
+This could be
+`Permission: storage-Access (partitioned)`, or perhaps
+'Storage-Access: partitioned
+
+`
+
+
+
+
