@@ -64,7 +64,7 @@ layout: home
 <tr>
         <th>2:40 - 3:20</th>
         <td>
-            <p class="session-title">New approaches to Permission Management, Serge Egelman</p>
+            <p class="session-title">New approaches to Permission Management, Serge Egelman with Aleecia McDonald (<a href="https://www.w3.org/Privacy/permissions-ws-2018/w3c-am40.pdf"> slides</a> and others</p>
         </td>
     </tr>
        <tr>
