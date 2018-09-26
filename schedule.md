@@ -46,7 +46,7 @@ layout: home
         <tr>
         <th>1:00 - 1:40</th>
         <td>
-            <p class="session-title">Permissions in new Contexts (e.g. cars, XR, WebRTC), Nell Waliczek</p>
+            <p class="session-title"><a href="https://www.w3.org/Privacy/permissions-ws-2018/WebXR.pdf">Permissions in new Contexts</a> (e.g. cars, XR, WebRTC), Nell Waliczek</p>
         </td>
     </tr>
        <tr>
