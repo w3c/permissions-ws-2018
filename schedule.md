@@ -91,6 +91,11 @@ layout: home
 ## Thursday, 27 September
 
 <table class="zebra">
+    <TR>
+        <th>room</th>
+        <TD>S210</td>
+        <td>S230B/C</td>
+        </tr>
     <tr>
         <th>9:00 - 9:40</th>
         <td>
@@ -100,26 +105,36 @@ layout: home
     <tr>
         <th>9:40 - 10:20</th>
         <td>
-            <p class="session-title">Unstructured / breakout</p>
+            <p class="session-title">Changes in the Environment (in past ~6 years), Aleecia M. </p>
+        </td>
+                <td>
+            <p class="session-title">XR, Nell W.</p>
         </td>
     </tr>
         <tr>
-        <th>10:20 - 10:40</th>
+        <th>10:40 - 11:00</th>
         <td>
             <p class="session-title">Break</p>
         </td>
     </tr>
         <tr>
-        <th>10:40 - 11:20</th>
+        <th>11 - 11:30</th>
         <td>
-            <p class="session-title">Interaction with Regulation and Policy, Robert Richter</p>
+            <p class="session-title">Consumer Reports, Bobby Richter</p>
         </td>
+             <td>
+            <p class="session-title">Context (in IoT), Primal W.</p>
+        </td> 
     </tr>
         <tr>
-        <th>11:20 - 12:00</th>
+                    <tr>
+        <th>11:30 - noon</th>
         <td>
-            <p class="session-title">Synthesis, consolidation, and unconference planning.  Program committee.</p>
+            <p class="session-title">API Consistency, Nick Doty </p>
         </td>
+             <td>
+            <p class="session-title">Vocabularies, Martin Kurze </p>
+        </td> 
     </tr>
         <tr>
         <th>12:00 - 1:00</th>
@@ -130,31 +145,37 @@ layout: home
         <tr>
         <th>1:00 - 1:40</th>
         <td>
-            <p class="session-title">Unconference / breakouts</p>
+            <p class="session-title">Consent Requirements, Tom L., Christine Utz, and Wendell Baker </p>
+        </td>
+                  <td>
+            <p class="session-title">Scary Permissions, Thomas N.</p>
         </td>
     </tr>
        <tr>
-        <th>1:40 - 2:20</th>
+        <th>1:40 - 2:00</th>
         <td>
-            <p class="session-title">Unconference / breakouts</p>
+            <p class="session-title">break</p>
         </td>
     </tr>
         <tr>
-        <th>2:20 - 2:40</th>
+        <th>2:00 - 2:40</th>
         <td>
-            <p class="session-title">Break</p>
+            <p class="session-title">Storage Access, Mike O'Neill </p>
+        </td>
+                              <td>
+            <p class="session-title">Dangers in OAUTH Innovation, Sarah Squire </p>
         </td>
     </tr>
 <tr>
-        <th>2:40 - 3:20</th>
+        <th>2:40 - 3:00</th>
         <td>
-            <p class="session-title">Report back / open mic</p>
+            <p class="session-title">break</p>
         </td>
     </tr>
        <tr>
         <th>3:20 - 4:00</th>
         <td>
-            <p class="session-title">Consolidation / next steps, Program Committee</p>
+            <p class="session-title">report back / consolidation / next steps, Program Committee</p>
         </td>
     </tr>
 
