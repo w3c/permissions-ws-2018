@@ -97,13 +97,13 @@ layout: home
         <td>S230B/C</td>
         </tr>
     <tr>
-        <th>9:00 - 9:40</th>
+        <th>9:00 - 10:00</th>
         <td>
             <p class="session-title">Role of Platforms, Jason Novak, Diane Hosfelt, Tom Lowenthal, Thomas Nattestad</p>
         </td>
     </tr>
     <tr>
-        <th>9:40 - 10:20</th>
+        <th>10 - 10:45</th>
         <td>
             <p class="session-title">Changes in the Environment (in past ~6 years), Aleecia M. </p>
         </td>
@@ -112,7 +112,7 @@ layout: home
         </td>
     </tr>
         <tr>
-        <th>10:40 - 11:00</th>
+        <th>10:45 - 11:00</th>
         <td>
             <p class="session-title">Break</p>
         </td>
@@ -173,7 +173,7 @@ layout: home
         </td>
     </tr>
        <tr>
-        <th>3:20 - 4:00</th>
+        <th>3:00 - 4:00</th>
         <td>
             <p class="session-title">report back / consolidation / next steps, Program Committee</p>
         </td>
