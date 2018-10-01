@@ -13,7 +13,9 @@ Scribed real-time DRAFT minutes:
 
 
 
- Topics
+# Topic list
+ 
+Day 1:
       <ol>
         <li>
           <a href="https://www.w3.org/2018/09/26-permissions-minutes.html#item01">Context, Jo Franchetti</a>
@@ -41,6 +43,9 @@ Scribed real-time DRAFT minutes:
           <a href="https://www.w3.org/2018/09/26-permissions-minutes.html#item07">Summary of Day 1</a>
         </li>
       </ol>
+      
+ Day 2: 
+ 
      Intro and Breakout Room 1
        <ol>  <li>
           <a href="https://www.w3.org/2018/09/27-permissions-minutes.html#item01">The Role of Platforms</a>
