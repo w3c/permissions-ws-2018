@@ -14,55 +14,24 @@ Scribed real-time DRAFT minutes:
 
 
 # Topic list
- 
-Day 1:
-      *
-        * <a href="https://www.w3.org/2018/09/26-permissions-minutes.html#item01">Context, Jo Franchetti</a>
-        
-        * <a href="https://www.w3.org/2018/09/26-permissions-minutes.html#item02">Accountability and Provenance, Martin
-          Thomson</a>
-        
-        * <a href="https://www.w3.org/2018/09/26-permissions-minutes.html#item03">duration and timing</a>
-        
-        * <a href="https://www.w3.org/2018/09/26-permissions-minutes.html#item04">Permissions in New Contexts, Nell
-          Waliczek</a>
-        
-        * <a href="https://www.w3.org/2018/09/26-permissions-minutes.html#item05">Permission Bundling, Harald
-          Alvestrand</a>
-        
-        * <a href="https://www.w3.org/2018/09/26-permissions-minutes.html#item06">research presentations on permissions
-          and context</a>
-        
-        * <a href="https://www.w3.org/2018/09/26-permissions-minutes.html#item07">Summary of Day 1</a>
-        
-      
-      
- Day 2: 
-      Intro and Breakout Room 1
-       *  * <a href="https://www.w3.org/2018/09/27-permissions-minutes.html#item01">The Role of Platforms</a>
-        
-        * <a href="https://www.w3.org/2018/09/27-permissions-minutes.html#item02">Changes in the Environment</a>
-        
-        * <a href="https://www.w3.org/2018/09/27-permissions-minutes.html#item03">Permissions, Policy, and Regulation
-          (Bobby)</a>
-        
-        * <a href="https://www.w3.org/2018/09/27-permissions-minutes.html#item04">API designs and consistency</a>
-        
-        * <a href="https://www.w3.org/2018/09/27-permissions-minutes.html#item05">Consent Requests</a>
-        
-        * <a href="https://www.w3.org/2018/09/27-permissions-minutes.html#item06">Storage Access</a>
-        
-      
-      Breakout Room 2
-      *
-         * <a href="https://www.w3.org/2018/09/27-permissions2-minutes.html#item01">XR</a>
-        
-        * <a href="https://www.w3.org/2018/09/27-permissions2-minutes.html#item02">Context &amp; IoT</a>
-        
-        * <a href="https://www.w3.org/2018/09/27-permissions2-minutes.html#item03">Vocabularies, Martin Kurze</a>
-        
-        * <a href="https://www.w3.org/2018/09/27-permissions2-minutes.html#item04">scary permissions, Thomas N.</a>
-        
-        * <a href="https://www.w3.org/2018/09/27-permissions2-minutes.html#item05">OAUTH, Sarah Squire</a>
-        
-      
+
+* * [Context, Jo Franchetti](https://www.w3.org/2018/09/26-permissions-minutes.html#item01) 
+* [Accountability and Provenance, Martin Thomson](https://www.w3.org/2018/09/26-permissions-minutes.html#item02) 
+* [duration and timing](https://www.w3.org/2018/09/26-permissions-minutes.html#item03) 
+* [Permissions in New Contexts, Nell Waliczek](https://www.w3.org/2018/09/26-permissions-minutes.html#item04) 
+* [Permission Bundling, Harald Alvestrand](https://www.w3.org/2018/09/26-permissions-minutes.html#item05) 
+* [research : presentations on permissions and context](https://www.w3.org/2018/09/26-permissions-minutes.html#item06) 
+* [Summary of Day 1](https://www.w3.org/2018/09/26-permissions-minutes.html#item07) Day 2: Intro and Breakout Room 1 
+* 
+* [The Role of Platforms](https://www.w3.org/2018/09/27-permissions-minutes.html#item01) 
+* [Changes in the Environment](https://www.w3.org/2018/09/27-permissions-minutes.html#item02) 
+* [Permissions, Policy, and Regulation (Bobby)](https://www.w3.org/2018/09/27-permissions-minutes.html#item03) 
+* [API designs and consistency](https://www.w3.org/2018/09/27-permissions-minutes.html#item04) 
+* [Consent Requests](https://www.w3.org/2018/09/27-permissions-minutes.html#item05) 
+* [Storage Access](https://www.w3.org/2018/09/27-permissions-minutes.html#item06) Breakout Room 2 
+* 
+* [XR](https://www.w3.org/2018/09/27-permissions2-minutes.html#item01) 
+* [Context & IoT](https://www.w3.org/2018/09/27-permissions2-minutes.html#item02) 
+* [Vocabularies, Martin Kurze](https://www.w3.org/2018/09/27-permissions2-minutes.html#item03) 
+* [scary permissions, Thomas N.](https://www.w3.org/2018/09/27-permissions2-minutes.html#item04) 
+* [OAUTH, Sarah Squire](https://www.w3.org/2018/09/27-permissions2-minutes.html#item05)
