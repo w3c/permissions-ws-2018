@@ -33,9 +33,9 @@ Scribed real-time DRAFT minutes:
 * [Permissions, Policy, and Regulation (Bobby)](https://www.w3.org/2018/09/27-permissions-minutes.html#item03) 
 * [API designs and consistency](https://www.w3.org/2018/09/27-permissions-minutes.html#item04) 
 * [Consent Requests](https://www.w3.org/2018/09/27-permissions-minutes.html#item05) 
-* [Storage Access](https://www.w3.org/2018/09/27-permissions-minutes.html#item06) Breakout
+* [Storage Access](https://www.w3.org/2018/09/27-permissions-minutes.html#item06) 
 
-## Room 2 
+## Breakout Room 2 
 
 * [XR](https://www.w3.org/2018/09/27-permissions2-minutes.html#item01) 
 * [Context & IoT](https://www.w3.org/2018/09/27-permissions2-minutes.html#item02) 
