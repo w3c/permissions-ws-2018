@@ -15,20 +15,27 @@ Scribed real-time DRAFT minutes:
 
 # Topic list
 
-* * [Context, Jo Franchetti](https://www.w3.org/2018/09/26-permissions-minutes.html#item01) 
+## Day 1
+* [Context, Jo Franchetti](https://www.w3.org/2018/09/26-permissions-minutes.html#item01) 
 * [Accountability and Provenance, Martin Thomson](https://www.w3.org/2018/09/26-permissions-minutes.html#item02) 
 * [duration and timing](https://www.w3.org/2018/09/26-permissions-minutes.html#item03) 
 * [Permissions in New Contexts, Nell Waliczek](https://www.w3.org/2018/09/26-permissions-minutes.html#item04) 
 * [Permission Bundling, Harald Alvestrand](https://www.w3.org/2018/09/26-permissions-minutes.html#item05) 
 * [research : presentations on permissions and context](https://www.w3.org/2018/09/26-permissions-minutes.html#item06) 
-* [Summary of Day 1](https://www.w3.org/2018/09/26-permissions-minutes.html#item07) Day 2: Intro and Breakout Room 1 
-* 
+* [Summary of Day 1](https://www.w3.org/2018/09/26-permissions-minutes.html#item07)
+
+## Day 2:
+
+## Intro and Breakout Room 1 
+
 * [The Role of Platforms](https://www.w3.org/2018/09/27-permissions-minutes.html#item01) 
 * [Changes in the Environment](https://www.w3.org/2018/09/27-permissions-minutes.html#item02) 
 * [Permissions, Policy, and Regulation (Bobby)](https://www.w3.org/2018/09/27-permissions-minutes.html#item03) 
 * [API designs and consistency](https://www.w3.org/2018/09/27-permissions-minutes.html#item04) 
 * [Consent Requests](https://www.w3.org/2018/09/27-permissions-minutes.html#item05) 
-* [Storage Access](https://www.w3.org/2018/09/27-permissions-minutes.html#item06) Breakout Room 2 
+* [Storage Access](https://www.w3.org/2018/09/27-permissions-minutes.html#item06) Breakout
+
+## Room 2 
 * 
 * [XR](https://www.w3.org/2018/09/27-permissions2-minutes.html#item01) 
 * [Context & IoT](https://www.w3.org/2018/09/27-permissions2-minutes.html#item02) 
