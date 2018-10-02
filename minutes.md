@@ -36,7 +36,7 @@ Scribed real-time DRAFT minutes:
 * [Storage Access](https://www.w3.org/2018/09/27-permissions-minutes.html#item06) Breakout
 
 ## Room 2 
-* 
+
 * [XR](https://www.w3.org/2018/09/27-permissions2-minutes.html#item01) 
 * [Context & IoT](https://www.w3.org/2018/09/27-permissions2-minutes.html#item02) 
 * [Vocabularies, Martin Kurze](https://www.w3.org/2018/09/27-permissions2-minutes.html#item03) 
