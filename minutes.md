@@ -43,4 +43,5 @@ Scribed real-time DRAFT minutes:
 * [scary permissions, Thomas N.](https://www.w3.org/2018/09/27-permissions2-minutes.html#item04) 
 * [OAUTH, Sarah Squire](https://www.w3.org/2018/09/27-permissions2-minutes.html#item05)
 
+## Wrap-up
 * [Wrap-up](https://www.w3.org/2018/09/27-permissions-minutes.html#item07)
