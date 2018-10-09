@@ -20,8 +20,9 @@ layout: home
 * [Ryo Kajiwara](https://www.w3.org/Privacy/permissions-ws-2018/papers/ryo-kajiwara.md),	* ACCESS CO. LTD.
 * [Aleksandra Korolova](https://www.w3.org/Privacy/permissions-ws-2018/papers/aleksandra-korolova.html),	University of Southern California
 * [Brad Kulick](https://www.w3.org/Privacy/permissions-ws-2018/papers/brad-kulick.pdf) [(txt)](https://www.w3.org/Privacy/permissions-ws-2018/papers/brad-kulick.txt),	Oath
-* Dan Lieberman,	Centinal
-* Ilaria Liccardi,	MIT
+* Martin Kurze, Deutsche Telekom
+* Dan Lieberman, Centinal
+* Ilaria Liccardi, MIT
 * Peter Linss,	W3C TAG, co-chair
 * Giridhar Mandyam,	Qualcomm
 * Aleecia McDonald, Carnegie Mellon
