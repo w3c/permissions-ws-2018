@@ -11,6 +11,7 @@ layout: home
 * Nick Doty,	UC Berkeley, School of Information
 * Ted Drake, Intuit
 * Serge Egelman, U.C. Berkeley / International Computer Science Institute
+* Balazs Engedy, Google
 * [Jo Franchetti](https://medium.com/samsung-internet-dev/a-crisis-of-permissions-80cf3b2c802e), Samsung Internet
 * Alisa Frik, International Computer Science Institute / UC Berkeley
 * Hana Habib, Carnegie Mellon University
