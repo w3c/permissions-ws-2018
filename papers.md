@@ -25,6 +25,7 @@ layout: home
 * Dan Lieberman, Centinal
 * Ilaria Liccardi, MIT
 * Peter Linss,	W3C TAG, co-chair
+* Tom Lowenthal, Brave
 * Giridhar Mandyam,	Qualcomm
 * Aleecia McDonald, Carnegie Mellon
 * Anthony Nadalin,	Microsoft
