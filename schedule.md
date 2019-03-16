@@ -64,13 +64,13 @@ layout: home
 <tr>
         <th>2:40 - 3:20</th>
         <td>
-            <p class="session-title">New approaches to Permission Management, Serge Egelman with Aleecia McDonald (<a href="https://www.w3.org/Privacy/permissions-ws-2018/w3c-am40.pdf"> slides</a> and others</p>
+            <p class="session-title">New approaches to Permission Management, Serge Egelman with Aleecia McDonald (<a href="https://www.w3.org/Privacy/permissions-ws-2018/w3c-am40.pdf">slides</a>) and others</p>
         </td>
     </tr>
        <tr>
         <th>3:20 - 4:00</th>
         <td>
-            <p class="session-title">Unstructured/breakouts</p>
+            <p class="session-title">Unstructured/Breakouts</p>
         </td>
     </tr>
            <tr>
@@ -105,10 +105,10 @@ layout: home
     <tr>
         <th>10 - 10:45</th>
         <td>
-            <p class="session-title">Changes in the Environment (in past ~6 years), Aleecia M. </p>
+            <p class="session-title">Changes in the Environment (in past ~6 years), Aleecia McDonald </p>
         </td>
         <td>
-            <p class="session-title">XR, Nell W.</p>
+            <p class="session-title">XR, Nell Waliczek</p>
         </td>
     </tr>
         <tr>
@@ -124,7 +124,7 @@ layout: home
             <p class="session-title">Consumer Reports, Bobby Richter</p>
         </td>
              <td>
-            <p class="session-title">Context (in IoT), Primal W.</p>
+            <p class="session-title">Context (in IoT), Primal Wijesekera</p>
         </td> 
     </tr>
         <tr>
@@ -146,10 +146,10 @@ layout: home
         <tr>
         <th>1:00 - 1:40</th>
         <td>
-            <p class="session-title">Consent Requirements, Tom L., Christine Utz, and Wendell Baker </p>
+            <p class="session-title">Consent Requirements, Tom Lowenthal, Christine Utz, and Wendell Baker </p>
         </td>
                   <td>
-            <p class="session-title">Scary Permissions, Thomas N.</p>
+            <p class="session-title">Scary Permissions, Thomas Nattestad</p>
         </td>
     </tr>
        <tr>
