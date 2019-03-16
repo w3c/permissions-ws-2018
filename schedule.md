@@ -84,8 +84,7 @@ layout: home
         <td>
             <p class="session-title">Consolidation, Program Committee</p>
         </td>
-    </tr>
-</table>
+    </tr></table>
 
 
 ## Thursday, 27 September
@@ -101,13 +100,14 @@ layout: home
         <td>
             <p class="session-title">Role of Platforms, Jason Novak, Diane Hosfelt, Tom Lowenthal, Thomas Nattestad</p>
         </td>
+        <td></td>
     </tr>
     <tr>
         <th>10 - 10:45</th>
         <td>
             <p class="session-title">Changes in the Environment (in past ~6 years), Aleecia M. </p>
         </td>
-                <td>
+        <td>
             <p class="session-title">XR, Nell W.</p>
         </td>
     </tr>
@@ -116,6 +116,7 @@ layout: home
         <td>
             <p class="session-title">Break</p>
         </td>
+        <td></td>
     </tr>
         <tr>
         <th>11 - 11:30</th>
@@ -127,7 +128,6 @@ layout: home
         </td> 
     </tr>
         <tr>
-                    <tr>
         <th>11:30 - noon</th>
         <td>
             <p class="session-title">API Consistency, Nick Doty </p>
@@ -141,6 +141,7 @@ layout: home
         <td>
             <p class="session-title">Lunch</p>
         </td>
+        <td></td> 
     </tr>
         <tr>
         <th>1:00 - 1:40</th>
@@ -154,8 +155,9 @@ layout: home
        <tr>
         <th>1:40 - 2:00</th>
         <td>
-            <p class="session-title">break</p>
+            <p class="session-title">Break</p>
         </td>
+                   <td></td>
     </tr>
         <tr>
         <th>2:00 - 2:40</th>
@@ -169,14 +171,15 @@ layout: home
 <tr>
         <th>2:40 - 3:00</th>
         <td>
-            <p class="session-title">break</p>
+            <p class="session-title">Break</p>
         </td>
+            <td></td>
     </tr>
        <tr>
         <th>3:00 - 4:00</th>
         <td>
-            <p class="session-title">report back / consolidation / next steps, Program Committee</p>
+            <p class="session-title">Report back / consolidation / next steps, Program Committee</p>
         </td>
+                   <td></td>
     </tr>
-
 </table>
