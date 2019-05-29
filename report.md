@@ -286,7 +286,7 @@ The workshop identified these follow-up items from breakout sessions:
 *   Find ways to rate browsers (e.g. Consumer Reports-style), ideally using an automated system (e.g. Web Platform Tests)
 *   XR group to hold a video conference + meet at TPAC
 
-![photo of whiteboard with breakout list and takeaways](images/breakouts.jpg "image_tooltip")
+![photo of whiteboard with breakout list and takeaways](assets/breakouts.jpg "image_tooltip")
 
 
 # Conclusions
