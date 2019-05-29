@@ -15,10 +15,6 @@ Conversion notes:
 # Report from W3C Workshop on Permissions and User Consent
 
 
-## September 26-27, 2018
-
-## San Diego, California
-
 # Executive Summary
 
 There was a widespread recognition that when proposing to add new features, whether to a platform or a web browser, we need to ask “should we do this (at all)”.  It may not be sufficient to ask permission - some features may be simply too dangerous to add. 
